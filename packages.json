@@ -5,13 +5,13 @@
 			"name": "Gimp Run",
 			"description": "Run the GIMP with a file on Sublime Text 2 (running on Mac OS X).",
 			"author": "Jan Loose",
-			"homepage": "https://github.com/TODO",
+			"homepage": "https://github.com/hellpf/GimpRun",
 			"last_modified": "2013-07-07 11:11:11",
 			"platforms": {
 				"osx": [
 					{
 						"version": "1.0.0",
-						"url": "https://nodeload.github.com/TODO"
+						"url": "https://nodeload.github.com/hellpf/GimpRun/zip/v1.0.0"
 					}
 				]
 			}
