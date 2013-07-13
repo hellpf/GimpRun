@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "Run Gimp",
+        "command": "gimprun",
+        "args": {"paths": []}
+    }
+]

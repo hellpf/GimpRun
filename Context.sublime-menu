@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "Run Gimp",
+        "id": "gimprun",
+        "command": "gimprun"
+    }
+]
